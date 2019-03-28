@@ -4,6 +4,8 @@ Student Id : B00087430
 
 https://conor2ka.github.io/Book-CA/
 
+We spoke in the lab about this. The repository above is the one in which has the commits etc.
+
 
 First commit : "Testing commit , uploading README.md"
 
